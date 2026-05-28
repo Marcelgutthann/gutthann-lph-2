@@ -1,0 +1,10 @@
+{
+  "name": "lph-2",
+  "description": "Erstellt LPH 2 Vorentwurfsberichte nach HOAI Paragraph 33 mit druckfestem Template, Quellen-Belegen, Pre-Flight Checklist",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marcel Gutthann",
+    "email": "info@gutthann-hiw-architekten.de"
+  },
+  "homepage": "https://github.com/Marcelgutthann/gutthann-lph-2"
+}
