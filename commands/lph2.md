@@ -168,7 +168,7 @@ Analysiere ALLE gelesenen Dokumente und erstelle Zielkonflikte-Tabelle:
 | Platzhalter | Beschreibung |
 |---|---|
 | `{{PROJEKT_TITEL}}` | z.B. "NEUBAU GRUNDSCHULE MIT SPORTHALLE UND KITA" |
-| `{{PROJEKT_NR}}` | z.B. "(Projekt-Nr.)-25 STKR" |
+| `{{PROJEKT_NR}}` | z.B. "(Projekt-Nr.)-25" |
 | `{{PROJEKT_ORT}}` | z.B. "{ORTSNAME}" |
 | `{{DATUM}}` | Aktuelles Datum TT.MM.JJJJ |
 | `{{TITELBILD_PFAD}}` | Relativer Pfad zum Titelbild |
